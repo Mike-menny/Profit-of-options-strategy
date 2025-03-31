@@ -1,5 +1,5 @@
 This is a series of python programs written to help me complete my FINA2322 course.
-This directory include programs to compute profits of different options and their combinations, including:
+This directory includes programs to compute profits of different options and their combinations, including:
 longcall
 longput
 shortcall
